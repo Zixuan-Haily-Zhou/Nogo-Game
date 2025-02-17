@@ -1,7 +1,3 @@
-permalink: /
-title: "Final Project Report for Introduction to Computing A"
-author_profile: true
-
 Final Project Report for Introduction to Computing A
 
 Instructor: Wang Houfeng
